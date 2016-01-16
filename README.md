@@ -1,1 +1,1 @@
-# lintcode
+# my lintcode practice
